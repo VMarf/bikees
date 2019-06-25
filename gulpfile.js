@@ -13,6 +13,7 @@ const favicons = require('gulp-favicons');
 const runSequence = require('run-sequence');
 const del = require('del');
 const imagemin = require('gulp-imagemin');
+const concat = require('gulp-concat');
 
 gulp.task('style', function () {
   return gulp.src('src/style/main.scss')
@@ -88,6 +89,12 @@ gulp.task('gen-sprite', function () {
 gulp.task('gen-fonts', function () {
   return gulp.src('src/fonts/*.{ttf,otf}')
     .pipe(fontgen({dest: 'src/fonts/'}));
+});
+
+gulp.task('concat-fonts-css', function () {
+  return gulp.src('src/fonts/*.css')
+    .pipe(concat('fonts.css'))
+    .pipe(gulp.dest('src/fonts/'));
 });
 
 gulp.task('gen-favicon', function () {
