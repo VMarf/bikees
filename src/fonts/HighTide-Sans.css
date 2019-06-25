@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "HighTide-Sans";
+    src: url("HighTide-Sans.eot");
+    src: url("HighTide-Sans.eot?#iefix") format("embedded-opentype"),
+         url("HighTide-Sans.woff2") format("woff2"),
+         url("HighTide-Sans.woff") format("woff"),
+         url("HighTide-Sans.ttf") format("ttf"),
+         url("HighTide-Sans.svg#HighTide-Sans") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "OdinRounded-Light";
+    src: url("Odin Rounded-Light.eot");
+    src: url("Odin Rounded-Light.eot?#iefix") format("embedded-opentype"),
+         url("Odin Rounded-Light.woff2") format("woff2"),
+         url("Odin Rounded-Light.woff") format("woff"),
+         url("Odin Rounded-Light.ttf") format("ttf"),
+         url("Odin Rounded-Light.svg#OdinRounded-Light") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

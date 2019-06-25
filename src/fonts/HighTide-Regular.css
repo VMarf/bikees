@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "HighTide-Regular";
+    src: url("HighTide-Regular.eot");
+    src: url("HighTide-Regular.eot?#iefix") format("embedded-opentype"),
+         url("HighTide-Regular.woff2") format("woff2"),
+         url("HighTide-Regular.woff") format("woff"),
+         url("HighTide-Regular.ttf") format("ttf"),
+         url("HighTide-Regular.svg#HighTide-Regular") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

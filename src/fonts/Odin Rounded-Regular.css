@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "OdinRounded";
+    src: url("Odin Rounded-Regular.eot");
+    src: url("Odin Rounded-Regular.eot?#iefix") format("embedded-opentype"),
+         url("Odin Rounded-Regular.woff2") format("woff2"),
+         url("Odin Rounded-Regular.woff") format("woff"),
+         url("Odin Rounded-Regular.ttf") format("ttf"),
+         url("Odin Rounded-Regular.svg#OdinRounded") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

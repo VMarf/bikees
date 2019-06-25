@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "OdinRounded-BoldItalic";
+    src: url("Odin Rounded-Bold Italic.eot");
+    src: url("Odin Rounded-Bold Italic.eot?#iefix") format("embedded-opentype"),
+         url("Odin Rounded-Bold Italic.woff2") format("woff2"),
+         url("Odin Rounded-Bold Italic.woff") format("woff"),
+         url("Odin Rounded-Bold Italic.ttf") format("ttf"),
+         url("Odin Rounded-Bold Italic.svg#OdinRounded-BoldItalic") format("svg");
+    font-style: italic;
+    font-weight: 700;
+}

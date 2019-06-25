@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "OpenSans-CondensedLightItalic";
+    src: url("OpenSans-CondLightItalic.eot");
+    src: url("OpenSans-CondLightItalic.eot?#iefix") format("embedded-opentype"),
+         url("OpenSans-CondLightItalic.woff2") format("woff2"),
+         url("OpenSans-CondLightItalic.woff") format("woff"),
+         url("OpenSans-CondLightItalic.ttf") format("ttf"),
+         url("OpenSans-CondLightItalic.svg#OpenSans-CondensedLightItalic") format("svg");
+    font-style: italic;
+    font-weight: 300;
+}
