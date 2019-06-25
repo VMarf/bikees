@@ -1,1 +1,1 @@
-Folder for .ttf and .otf fonts
+Folder for .ttf and .otf files
